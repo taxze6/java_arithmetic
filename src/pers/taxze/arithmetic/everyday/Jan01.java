@@ -3,8 +3,7 @@ package pers.taxze.arithmetic.everyday;
  * 力扣2022年一月一日每日一题
  * 题目链接：https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/description/
  来源：力扣（LeetCode）
- 链接：https://leetcode-cn.com/problems/convert-1d-array-into-2d-array
-*/
+ */
 public class Jan01 {
     public int[][] construct2DArray(int[] original, int m, int n) {
         if (original.length != m*n)
